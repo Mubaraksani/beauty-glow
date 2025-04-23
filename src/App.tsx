@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h3>Hello World</h3>
-      <p>This React app is deployed on vercel environment</p>
+      <p>This React app is deployed on gh pages</p>
     </div>
   );
 }
