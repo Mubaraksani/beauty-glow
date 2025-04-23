@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beauty-glow/static/css/main.f855e6bc.css",
+    "main.js": "/beauty-glow/static/js/main.3637f6d5.js",
+    "static/js/453.c52aadc6.chunk.js": "/beauty-glow/static/js/453.c52aadc6.chunk.js",
+    "index.html": "/beauty-glow/index.html",
+    "main.f855e6bc.css.map": "/beauty-glow/static/css/main.f855e6bc.css.map",
+    "main.3637f6d5.js.map": "/beauty-glow/static/js/main.3637f6d5.js.map",
+    "453.c52aadc6.chunk.js.map": "/beauty-glow/static/js/453.c52aadc6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3637f6d5.js"
+  ]
+}
